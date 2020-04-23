@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131411369130",
+    "firebase_url": "https://mygreatapp-9078f.firebaseio.com",
+    "project_id": "mygreatapp-9078f",
+    "storage_bucket": "mygreatapp-9078f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131411369130:android:c7f7d6fc0509ef6e5604d3",
+        "android_client_info": {
+          "package_name": "com.kobid.mygreatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131411369130-ag0ri3q389lp0rr04j1ape62jlhahbv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYhOIs7UPCnTzn2V7mohIDNI7wRyILy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131411369130-ag0ri3q389lp0rr04j1ape62jlhahbv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
